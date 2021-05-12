@@ -1,5 +1,5 @@
 # portfolio
-Click on this to check my website. https://hwangmpaula.github.io/portfolio/index.html
+Click this https://hwangmpaula.github.io/portfolio/index.html
 
 ## Project:
 
